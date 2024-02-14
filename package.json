@@ -1,0 +1,38 @@
+{
+  "name": "livesy",
+  "version": "1.0.0",
+  "description": "Livesy is your online platform where you can: schedule and host live group and private video classes, workshops or tutorials, get paid and manage attendees.",
+  "main": "server.js",
+  "scripts": {
+    "serve": "node server.js",
+    "watch": "node --watch --trace-warnings server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lionrajkumar/livesy.git"
+  },
+  "keywords": [
+    "lionrajkumar",
+    "livesy",
+    "video",
+    "streaming",
+    "web",
+    "app"
+  ],
+  "author": "lionrajkumar <lionrajkumar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lionrajkumar/livesy/issues"
+  },
+  "homepage": "https://github.com/lionrajkumar/livesy#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.4",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.2"
+  }
+}
