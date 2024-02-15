@@ -22,8 +22,8 @@ showChat.addEventListener("click", () => {
 const user = prompt("Enter your name");
 
 var peer = new Peer({
-    host: 'localhost',
-    port: 3000,
+    host: 'livesy.onrender.com',
+    port: 443,
     path: '/peerjs',
     config: {
         'iceServers': [
