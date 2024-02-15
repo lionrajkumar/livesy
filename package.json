@@ -33,6 +33,9 @@
     "express": "^4.18.2",
     "http": "^0.0.1-security",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.1.2"
+    "mongoose": "^8.1.2",
+    "peer": "^1.0.2",
+    "socket.io": "^4.7.4",
+    "uuid": "^9.0.1"
   }
 }

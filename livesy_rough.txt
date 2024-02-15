@@ -3,4 +3,4 @@ Livesy
 https://www.youtube.com/watch?v=rQIcIgvF6_U&list=PLsY8aWop1tAEh-NbTNQ0vYsdEUk2eeZaJ&ab_channel=AdnanAfzal
 
 npm init
-npm install express http dotenv mongoose bcryptjs ejs jsonwebtoken
+npm install express http dotenv mongoose bcryptjs ejs jsonwebtoken npm i express socket.io
