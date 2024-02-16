@@ -4,3 +4,14 @@ https://www.youtube.com/watch?v=rQIcIgvF6_U&list=PLsY8aWop1tAEh-NbTNQ0vYsdEUk2ee
 
 npm init
 npm install express http dotenv mongoose bcryptjs ejs jsonwebtoken npm i express socket.io
+
+*************
+https://www.youtube.com/watch?v=DvlyzDZDEq4&ab_channel=WebDevSimplified
+
+*******************
+
+https://levelup.gitconnected.com/building-a-video-chat-app-with-node-js-socket-io-webrtc-26f46b213017
+
+https://github.com/anoek/webrtc-group-chat-example
+
+https://tsh.io/blog/how-to-write-video-chat-app-using-webrtc-and-nodejs/
