@@ -1,8 +1,8 @@
 const socket = io()
 const videoGrid = document.getElementById('video-grid')
 var myPeer = new Peer({
-    host: 'localhost',
-    port: 3000,
+    host: 'livesy.onrender.com',
+    port: 443,
     path: '/peerjs',
     config: {
         'iceServers': [
