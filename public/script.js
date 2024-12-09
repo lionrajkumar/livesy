@@ -60,7 +60,6 @@ navigator.mediaDevices.getUserMedia({
 	alert('Failed to access camera or microphone');
 });
 
-const ROOM_ID = window.location.pathname.split('/')[1];
 myPeer.on('open', id => {
     socket.emit('join-room', ROOM_ID, id)
 })
